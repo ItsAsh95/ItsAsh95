@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there! 👋
+## I'm learning the ropes!
 
 <!--
 **ItsAsh95/ItsAsh95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
