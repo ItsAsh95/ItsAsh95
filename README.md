@@ -1,69 +1,8 @@
+
 <div align="center">
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradient-animation {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				.container {
-					font-family:
-						'Segoe UI',
-						'Roboto',
-						'Oxygen',
-						'Ubuntu',
-						'Cantarell',
-						'Fira Sans',
-						'Droid Sans',
-						'Helvetica Neue',
-						sans-serif;
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background-color: #0d1117;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					font-weight: 700;
-					letter-spacing: 2px;
-					text-transform: uppercase;
-					background: linear-gradient(to right, #7928CA, #FF0080, #00BFFF);
-					background-size: 200% auto;
-					color: #000;
-					background-clip: text;
-					-webkit-background-clip: text;
-					-webkit-text-fill-color: transparent;
-					animation: gradient-animation 4s ease infinite;
-				}
-				p {
-					font-size: 20px;
-					margin-top: -10px;
-					color: #c9d1d9;
-				}
-			</style>
-			<div class="container">
-				<h1>ASHMIT AYAN</h1>
-				<h3>Software Engineer | Full-Stack Architect | Future Security & AI Practitioner</h3>
-        			<p>Architecting robust, intelligent, and secure systems designed to perform under pressure and solve meaningful problems.</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+  <h1>ASHMIT AYAN</h1>
+  <h3>Software Engineer | Full-Stack Architect | Security, AI & Data Practitioner</h3>
+  <p>Engineering robust, intelligent, and secure systems designed to perform under pressure and solve meaningful problems.</p>
 </div>
 
 ---
@@ -84,27 +23,27 @@ My work is guided by a core principle: **an uncompromising pursuit of excellence
 
 My work is the ultimate testament to my skills. This section displays my hand-picked, pinned repositories—a living gallery of my most significant and recent projects.
 
-
-<table width="100%">
+<table align="center" width="100%">
   <tr valign="top">
-    <td width="33.33%">
+    <td width="50%" align="center">
       <a href="https://github.com/ItsAsh95/MediSonar" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=MediSonar&theme=tokyonight&border_radius=10" alt="Project 1 Pin"/>
       </a>
     </td>
-    <td width="33.33%">
+    <td width="50%" align="center">
       <a href="https://github.com/ItsAsh95/HMS" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=HMS&theme=tokyonight&border_radius=10" alt="Project 2 Pin"/>
       </a>
     </td>
-    <td width="33.33%">
+  </tr>
+  <tr valign="top">
+    <td colspan="2" align="center">
       <a href="https://github.com/ItsAsh95/A.R.D.S" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=A.R.D.S&theme=tokyonight&border_radius=10" alt="Project 3 Pin"/>
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🎯 The Roadmap: Engineering Three Pillars of Expertise
