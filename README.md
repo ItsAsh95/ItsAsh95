@@ -72,7 +72,7 @@ Excellence requires depth and breadth. I am actively engineering a "Pi-shaped" s
 
 <div align="center">
   <p>The core technologies I leverage to bring my projects to life.</p>
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nodejs,express,react,redux,html,css,tailwind,postgres,mysql,docker,aws,linux,git,bash" />
   </a>
 </div>
