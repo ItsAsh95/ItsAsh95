@@ -30,10 +30,9 @@ My work is guided by a core principle: **an uncompromising pursuit of excellence
 My work is the ultimate testament to my skills. This section dynamically displays my hand-picked, pinned repositories—a living gallery of my most significant and recent projects.
 
 <div align="center">
-  <!-- This section dynamically displays your pinned repositories. Update your pins on GitHub to change what's shown here. -->
   <a href="https://github.com/ItsAsh95">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=MediSonar&theme=tokyonight&border_radius=10" alt="Project 1 Pin"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=H.M.S&theme=tokyonight&border_radius=10" alt="Project 2 Pin"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=HMS&theme=tokyonight&border_radius=10" alt="Project 2 Pin"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=A.R.D.S&theme=tokyonight&border_radius=10" alt="Project 3 Pin"/>
   </a>
 </div>
