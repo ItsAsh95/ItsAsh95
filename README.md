@@ -44,6 +44,7 @@ My work is the ultimate testament to my skills. This section displays my hand-pi
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🎯 The Roadmap: Engineering Three Pillars of Expertise
