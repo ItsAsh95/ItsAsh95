@@ -95,9 +95,7 @@ Excellence requires depth and breadth. I am actively engineering a skillset with
 
 ### 📈 My GitHub Metrics
 
-<div align="center">  
-  <a href="#">
+<div align="center">    
   <img src="https://github-readme-stats.vercel.app/api?username=ItsAsh95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsh95&theme=dracula&border_radius=10" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsh95&theme=dracula&border_radius=10" alt="GitHub Streak Stats" />  
 </div>
