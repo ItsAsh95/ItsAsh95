@@ -87,7 +87,7 @@ Excellence requires depth and breadth. I am actively engineering a skillset with
 <div align="center">
   <p>The core technologies I leverage to bring my projects to life.</p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nodejs,express,react,redux,html,css,tailwind,postgres,mysql,docker,aws,linux,git,bash,arch,bootstrap,c,cpp,arduino,cmake,flask,heroku,java,kali,mongodb,nextjs,npm,opencv,postman,processing,r,ruby,rails,redis,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cmake,cpp,html,java,js,processing,python,r,ruby,ts,express,fastapi,flask,nodejs,rails,bootstrap,css,nextjs,react,redux,tailwind,mongodb,mysql,opencv,postgres,postman,redis,arch,aws,docker,git,heroku,kali,linux,npm,vscode" />
   </a>
 </div>
 
