@@ -87,8 +87,7 @@ Excellence requires depth and breadth. I am actively engineering a skillset with
 <div align="center">
   <p>The core technologies I leverage to bring my projects to life.</p>
   <a href="#">
-    <img src="https://skillicons.dev/icons?
-      i=arduino, bash, c, cmake, cpp, html, java, js, processing, python, r, ruby, ts, express, fastapi, flask, nodejs, rails, bootstrap, css, nextjs, react, redux, tailwind, mongodb, mysql, opencv, postgres, postman, redis, arch, aws, docker, git, heroku, kali, linux, npm, vscode" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nodejs,express,react,redux,html,css,tailwind,postgres,mysql,docker,aws,linux,git,bash,arch,bootstrap,c,cpp,arduino,cmake,flask,heroku,java,kali,mongodb,nextjs,npm,opencv,postman,processing,r,ruby,rails,redis,vscode" />
   </a>
 </div>
 
@@ -96,7 +95,9 @@ Excellence requires depth and breadth. I am actively engineering a skillset with
 
 ### 📈 My GitHub Metrics
 
-<div align="center">  
+<div align="center">
+  <a href='#'>
   <img src="https://github-readme-stats.vercel.app/api?username=ItsAsh95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsh95&theme=dracula&border_radius=10" alt="GitHub Streak Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsh95&theme=dracula&border_radius=10" alt="GitHub Streak Stats" />
+  </a>
 </div>
