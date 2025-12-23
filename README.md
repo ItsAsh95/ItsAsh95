@@ -35,14 +35,7 @@ My work is the ultimate testament to my skills. This section displays my hand-pi
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=HMS&theme=tokyonight&border_radius=10" alt="Project 2 Pin"/>
       </a>
     </td>
-  </tr>
-  <tr valign="top">
-    <td colspan="2" align="center">
-      <a href="https://github.com/ItsAsh95/A.R.D.S" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsAsh95&repo=A.R.D.S&theme=tokyonight&border_radius=10" alt="Project 3 Pin"/>
-      </a>
-    </td>
-  </tr>
+  </tr>  
 </table>
 
 ---
